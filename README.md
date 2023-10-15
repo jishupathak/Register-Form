@@ -1,1 +1,1 @@
-# Register-Form
+This is a simple Register Form page
